@@ -1,5 +1,6 @@
 package chat_client;
 
+
 import java.awt.Color;
 import java.awt.event.FocusEvent;
 import java.awt.event.KeyEvent;
@@ -16,7 +17,12 @@ import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
-
+/**
+ * 
+ * @author abul.kalam
+ * @since 2020-07-19
+ *
+ */
 public class client_frame extends javax.swing.JFrame {
 
     String gbp3 = null, getsum1 = null, vsm1 = null, groust3 = null, vatt3 = null, vsum = null, gtsum = null,
